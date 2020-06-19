@@ -1,11 +1,11 @@
 # ToDO-Backend
 
-This project was generated with Node.js version 8.11.3.
+This project was generated with Node.js 
 
 ## Getting Started
 ### Documentation
-#### [Apidoc](http://todo-apidocs.akshaypatil.online/)
-#### [Eventdoc](http://todo-eventdocs.akshaypatil.online/)       
+#### [Apidoc](http://apidoc.todo-druvakumar.xyz/)
+#### [Eventdoc](http://eventdoc.todo-druvakumar.xyz/)       
 
 ### Prerequisites
 
@@ -59,20 +59,19 @@ nodeMailer.password = "<Your Password>";
 
 ## Deployed at
 
-`http://todo-node.akshaypatil.online/`
+`http://todo-druvakumar.xyz/`
+
+## Api Deployed at
+
+`http://api.todo-druvakumar.xyz`
 
 ## Authors
 
-* **Akshay Patil** - *Initial work* - [Portfolio](https://laffingdragons.github.io/Material-Portfolio/)
-
-
+* **Druva Kumar B T** 
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-## Acknowledgments
-
-* [edWisor](https://edwisor.com/)
 
 
